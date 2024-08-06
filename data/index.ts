@@ -110,7 +110,7 @@ export const testimonials = [
     quote:
       "Collaborating with Souhail was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Souhail's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Souhail is the ideal partner.",
     name: "Bellarej Tarek",
-    title: "Director of the IT department in WardaTx ",
+    title: "Director of the IT department in Coup INTER",
     img: "",
   },
   {
@@ -123,8 +123,8 @@ export const testimonials = [
   {
     quote:
       "Partnering with Souhail was a fantastic experience. His professionalism, reliability, and commitment to achieving superior results were evident during the entire project. Souhail's passion for all aspects of development is truly exceptional. If you aim to enhance your website and strengthen your brand, Souhail is the ideal choice",
-    name: "Mouhamed Helale",
-    title: "Director of WardaTx",
+    name: "Mohamed Helal",
+    title: "Director of ROM",
     img: "",
   },
   {
